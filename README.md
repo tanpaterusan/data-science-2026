@@ -22,13 +22,12 @@ Berikut adalah riwayat pembelajaran yang telah diselesaikan sepanjang setengah s
 
 | Pertemuan | Topik / Materi Pembelajaran | Tautan Notebook |
 | :--- | :--- | :--- |
-| **Pertemuan 1** | Pengenalan Python Dasar, Variabel, & Fungsi | [Buka Notebook 1]([link_pertemuan1]) |
-| **Pertemuan 2** | Manipulasi Struktur Data (List & Dictionary) | [Buka Notebook 2]([link_pertemuan2]) |
-| **Pertemuan 3** | Load Dataset & Eksplorasi Awal (*Exploratory Data Analysis*) | [Buka Notebook 3]([link_pertemuan3]) |
-| **Pertemuan 4** | Visualisasi Data & Pembuatan Dashboard Statis | [Buka Notebook 4]([link_pertemuan4]) |
-| **Pertemuan 5** | Analisis Distribusi Statistik & Matriks Korelasi | [Buka Notebook 5]([link_pertemuan5]) |
-| **Pertemuan 6** | *Data Cleaning Pipeline* (Imputasi & Handling Outlier) | [Buka Notebook 6]([link_pertemuan6]) |
-| **Pertemuan 7** | *Data Preprocessing for Machine Learning* (Encoding & Scaling) | [Buka Notebook 7]([link_pertemuan7]) |
+| **Pertemuan 1** | Pengenalan Python Dasar, Variabel, & Fungsi | [Buka Notebook 1](https://github.com/tanpaterusan/data-science-2026/blob/main/Pertemuan1_Amalia_240401010284.ipynb) |
+| **Pertemuan 2** | Manipulasi Struktur Data (List & Dictionary) | [Buka Notebook 2](https://github.com/tanpaterusan/data-science-2026/blob/main/Pertemuan2_Amalia_240401010284.ipynb) |
+| **Pertemuan 3** | Load Dataset & Eksplorasi Awal (*Exploratory Data Analysis*) | [Buka Notebook 3](https://github.com/tanpaterusan/data-science-2026/blob/main/Pertemuan3_Amalia_240401010284.ipynb) |
+| **Pertemuan 4** | Visualisasi Data & Pembuatan Dashboard Statis | [Buka Notebook 4](https://github.com/tanpaterusan/data-science-2026/blob/main/Pertemuan4_Amalia_240401010284.ipynb) |
+| **Pertemuan 5** | Analisis Distribusi Statistik & Matriks Korelasi | [Buka Notebook 5](https://github.com/tanpaterusan/data-science-2026/blob/main/Pertemuan5_Amalia_240401010284.ipynb) |
+| **Pertemuan 6** | *Data Cleaning Pipeline* (Imputasi & Handling Outlier) | [Buka Notebook 6](https://github.com/tanpaterusan/data-science-2026/blob/main/Pertemuan6_Amalia_240401010284.ipynb) |
 
 ---
 
@@ -53,4 +52,5 @@ Proyek dalam repository ini sepenuhnya dibangun menggunakan ekosistem Python ber
 ### Opsi 2: Secara Lokal (Komputer Sendiri)
 1. Klon repository ini ke komputer Anda:
    ```bash
-   git clone [link_repository_github_anda]
+   git clone https://github.com/tanpaterusan/data-science-2026.git
+   

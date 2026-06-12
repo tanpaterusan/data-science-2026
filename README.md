@@ -28,6 +28,7 @@ Berikut adalah riwayat pembelajaran yang telah diselesaikan sepanjang setengah s
 | **Pertemuan 4** | Visualisasi Data & Pembuatan Dashboard Statis | [Buka Notebook 4](https://github.com/tanpaterusan/data-science-2026/blob/main/Pertemuan4_Amalia_240401010284.ipynb) |
 | **Pertemuan 5** | Analisis Distribusi Statistik & Matriks Korelasi | [Buka Notebook 5](https://github.com/tanpaterusan/data-science-2026/blob/main/Pertemuan5_Amalia_240401010284.ipynb) |
 | **Pertemuan 6** | *Data Cleaning Pipeline* (Imputasi & Handling Outlier) | [Buka Notebook 6](https://github.com/tanpaterusan/data-science-2026/blob/main/Pertemuan6_Amalia_240401010284.ipynb) |
+| **Pertemuan 7** | *Machine Learninge* (Regresi Linier dan Metriks Evaluasi) | [Buka Notebook 7](https://github.com/tanpaterusan/data-science-2026/blob/main/Pertemuan7_Amalia_240401010284.ipynb) |
 
 ---
 
